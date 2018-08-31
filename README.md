@@ -1,3 +1,4 @@
+dojo create app --name dojo-01
 dojo build --mode dist
 dojo build --mode dev
 dojo build --mode dev --watch memory --serve
